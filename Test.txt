@@ -1,0 +1,2 @@
+this is a new file called f2 
+file is being pushed onto developB
